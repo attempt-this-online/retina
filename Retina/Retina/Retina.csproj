@@ -8,6 +8,7 @@
     <RootNamespace>Retina</RootNamespace>
     <AssemblyName>Retina</AssemblyName>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
